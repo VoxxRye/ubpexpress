@@ -3,6 +3,8 @@ Assignment for Data Structure course. Finished at 08-07-2024
 
 UBP Express Package Delivery Management System is a simple application for package delivery management that allows users or in this case Sales Counter Officer (SCO) to record package delivery transactions, change package delivery transactions, delete package delivery transactions, and view a list of recorded package deliveries.
 
+## Flowchart
+
 ![flowchartubpexpress](https://github.com/VoxxRye/ubpexpress/assets/93810719/a903a9b6-5e39-4ede-a972-5887eaaaa366)
 
 ## Example
